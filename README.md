@@ -22,7 +22,7 @@ Over the years I've built online stores, business dashboards, booking and event 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/ai-dark.svg">
-  <img alt="Claude, OpenAI, Gemini, Kimi and GLM" src="./assets/ai-light.svg" width="100%">
+  <img alt="Claude, Kimi, OpenAI, GLM and Gemini" src="./assets/ai-light.svg" width="100%">
 </picture>
 
 AI is part of my daily workflow: coding agents to ship faster, MCP to connect models to real tools, and AI features built straight into the products I deliver.
