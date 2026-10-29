@@ -7,7 +7,7 @@
 
 I'm a full-stack developer from Lisbon with 7+ years of experience. I take products from idea to production: database design, APIs, interfaces, payments, deploys and the monitoring that keeps them running.
 
-Over the years I've built online stores, business dashboards, booking and event platforms, internal tools, automation pipelines and game server systems, both for clients and for my own projects.
+Over the years I've built online stores, business dashboards, booking and event platforms, internal tools, automation pipelines and multiplayer game servers, both for clients and for my own projects.
 
 ### What I build
 
@@ -16,7 +16,7 @@ Over the years I've built online stores, business dashboards, booking and event 
 - **APIs & automation** - FastAPI and Node.js services, browser automation with Playwright, scheduled jobs and third-party integrations.
 - **AI features** - transcription, translation, subtitles and voice dubbing with Whisper, TTS and FFmpeg, plus LLM integrations inside real products.
 - **Infrastructure** - Linux servers, Docker, CI/CD, backups and alerting, so what I ship stays up.
-- **Game servers** - Java plugins for Minecraft networks and Lua resources for FiveM.
+- **Multiplayer game servers** - backend systems for Minecraft, FiveM and Counter-Strike communities: Java plugins, Lua resources, on-demand server orchestration and player queues.
 
 ### AI I work with
 
