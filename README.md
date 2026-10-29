@@ -25,7 +25,7 @@ Over the years I've built online stores, business dashboards, booking and event 
   <img alt="Claude, OpenAI, Gemini, Grok, Kimi, DeepSeek, Qwen and GLM" src="./assets/ai-light.svg" width="100%">
 </picture>
 
-I use all of the frontier models, with **Claude** and **Kimi** as my daily drivers: coding agents to ship faster, MCP to connect models to real tools, and AI features built straight into the products I deliver.
+I use all of the frontier models, with **Claude** and **Kimi** as my daily drivers: coding agents for higher-quality delivery, MCP to connect models to real tools, and AI features built straight into the products I deliver.
 
 ### Stack
 
