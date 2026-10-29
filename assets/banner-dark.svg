@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Rafael Carvalho - full-stack developer, AI agents, self-hosted infra">
+<defs>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#21262d"/></pattern>
+  <radialGradient id="glow" cx="0.779" cy="0.5" r="0.45"><stop offset="0" stop-color="#e08a5f" stop-opacity="0.22"/><stop offset="1" stop-color="#e08a5f" stop-opacity="0"/></radialGradient>
+  <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="0.55" stop-color="#0d1117" stop-opacity="0.6"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+  <clipPath id="card"><rect width="1200" height="340" rx="18"/></clipPath>
+</defs>
+<style>
+  .cursor { animation: blink 1.1s steps(1) infinite; }
+  .ring { transform-origin: 935px 172px; animation: spin 60s linear infinite; }
+  .core { transform-origin: 935px 172px; animation: breathe 3.2s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  @keyframes breathe { 50% { transform: scale(1.12); } }
+  @media (prefers-reduced-motion: reduce) { .cursor, .ring, .core { animation: none; } }
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="340" fill="#0d1117"/>
+<rect width="1200" height="340" fill="url(#dots)"/>
+<rect width="1200" height="340" fill="url(#glow)"/>
+<rect width="720" height="340" fill="url(#fade)"/>
+<g class="ring"><circle cx="935" cy="172" r="112" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="3 7"/></g>
+<circle cx="935" cy="172" r="158" fill="none" stroke="#30363d" stroke-width="1" opacity="0.5"/>
+<path d="M935,172 L935.0,60.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="2.4s" begin="0.0s" repeatCount="indefinite" path="M935,172 L935.0,60.0"/><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="935.0" cy="60.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="935.0" cy="60.0" r="4" fill="#3fb9a3"/>
+<text x="935.0" y="36.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">plan</text>
+<path d="M935,172 L1032.0,116.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="2.9s" begin="0.4s" repeatCount="indefinite" path="M935,172 L1032.0,116.0"/><animate attributeName="opacity" values="0;1;1;0" dur="2.9s" begin="0.4s" repeatCount="indefinite"/></circle>
+<circle cx="1032.0" cy="116.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="1032.0" cy="116.0" r="4" fill="#3fb9a3"/>
+<text x="1056.0" y="121.0" text-anchor="start" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">code</text>
+<path d="M935,172 L1032.0,228.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="3.4s" begin="0.8s" repeatCount="indefinite" path="M935,172 L1032.0,228.0"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+<circle cx="1032.0" cy="228.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="1032.0" cy="228.0" r="4" fill="#3fb9a3"/>
+<text x="1056.0" y="233.0" text-anchor="start" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">review</text>
+<path d="M935,172 L935.0,284.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="2.4s" begin="1.2s" repeatCount="indefinite" path="M935,172 L935.0,284.0"/><animate attributeName="opacity" values="0;1;1;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="935.0" cy="284.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="935.0" cy="284.0" r="4" fill="#3fb9a3"/>
+<text x="935.0" y="320.0" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">test</text>
+<path d="M935,172 L838.0,228.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="2.9s" begin="1.6s" repeatCount="indefinite" path="M935,172 L838.0,228.0"/><animate attributeName="opacity" values="0;1;1;0" dur="2.9s" begin="1.6s" repeatCount="indefinite"/></circle>
+<circle cx="838.0" cy="228.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="838.0" cy="228.0" r="4" fill="#3fb9a3"/>
+<text x="814.0" y="233.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">deploy</text>
+<path d="M935,172 L838.0,116.0" stroke="#30363d" stroke-width="1.5"/>
+<circle r="3" fill="#e08a5f"><animateMotion dur="3.4s" begin="2.0s" repeatCount="indefinite" path="M935,172 L838.0,116.0"/><animate attributeName="opacity" values="0;1;1;0" dur="3.4s" begin="2.0s" repeatCount="indefinite"/></circle>
+<circle cx="838.0" cy="116.0" r="13" fill="#161b22" stroke="#3fb9a3" stroke-width="2"/>
+<circle cx="838.0" cy="116.0" r="4" fill="#3fb9a3"/>
+<text x="814.0" y="121.0" text-anchor="end" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#9198a1">monitor</text>
+<g class="core"><circle cx="935" cy="172" r="30" fill="#e08a5f" opacity="0.18"/><circle cx="935" cy="172" r="20" fill="#e08a5f"/></g>
+<path d="M939.0,172.0 L946.0,172.0 M937.8,174.8 L942.8,179.8 M935.0,176.0 L935.0,183.0 M932.2,174.8 L927.2,179.8 M931.0,172.0 L924.0,172.0 M932.2,169.2 L927.2,164.2 M935.0,168.0 L935.0,161.0 M937.8,169.2 L942.8,164.2" stroke="#0d1117" stroke-width="2.6" stroke-linecap="round"/>
+<text x="64" y="96" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="17" fill="#9198a1"><tspan fill="#3fb9a3">~/lisbon</tspan> <tspan fill="#9198a1">$</tspan> <tspan fill="#f0f3f6">claude</tspan> <tspan fill="#e08a5f">"build it, test it, ship it"</tspan><tspan class="cursor" fill="#f0f3f6"> ▍</tspan></text>
+<text x="61" y="170" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#f0f3f6">Rafael Carvalho</text>
+<text x="64" y="214" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" fill="#9198a1">Full-stack developer · <tspan fill="#e08a5f" font-weight="600">AI agents</tspan> · self-hosted infra</text>
+<rect x="64" y="246" width="121" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="124.3" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">Claude Code</text>
+<rect x="194.6" y="246" width="52" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="220.5" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">MCP</text>
+<rect x="256.4" y="246" width="86" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="299.5" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">Next.js</text>
+<rect x="352.59999999999997" y="246" width="78" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="391.4" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">Python</text>
+<rect x="440.19999999999993" y="246" width="86" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="483.3" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">FastAPI</text>
+<rect x="536.3999999999999" y="246" width="78" height="30" rx="15" fill="#161b22" stroke="#30363d"/>
+<text x="575.2" y="266" text-anchor="middle" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="14" fill="#c9d1d9">Docker</text>
+</g>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#30363d"/>
+</svg>
